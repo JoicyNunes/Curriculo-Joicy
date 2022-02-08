@@ -1,0 +1,176 @@
+body {
+    background-color: lightblue;
+    
+}
+
+h3{
+    font-family: Andale Mono, monospace;
+}
+
+.principal{
+    background-color: white;
+    margin: 0 250px 0 250px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 70%;
+}
+
+.lado_esquerdo{
+    background-color: #355586;
+}
+
+.lado_direito{
+    background-color: #ffffff;
+}
+.titulo_nome{
+    font-size: 25px;
+    color: rgb(27, 62, 175);
+    text-align: center;
+    text-transform: uppercase;
+}
+.titulo_objetivo{
+    color: rgb(27, 62, 175);
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.titulo_experiencia{
+    color: rgb(27, 62, 175);
+    text-align: justify;
+    text-transform: uppercase;
+}
+.titulo_curso{
+    color: rgb(27, 62, 175);
+    text-align: justify;
+    text-transform: uppercase;
+}
+.bloco_descricao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: justify;
+}
+.bloco_descricao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: justify;
+}
+.bloco_descricao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: justify;
+}
+
+.bloco_descricao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: justify;
+}
+
+.material-icons.icone_preto{
+    color: black;
+}
+
+.informacao{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 12px;
+}
+
+.foto_perfil{
+    margin: 50px 25% 50px 25%;
+    border-radius: 50%;
+}
+
+.titulo_contato{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.material-icons.icone_branco{
+    color: white;
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: center;
+}
+
+.descricao{
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    font-family:  Andale Mono, monospace;
+    margin-left: 16px;
+}
+.titulo_funcoes{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.material-icons.icone_branco{
+    color: white;
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: center;
+}
+
+.descricao{
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    font-family:  Andale Mono, monospace;
+    margin-left: 16px;
+}
+.titulo_idioma{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.material-icons.icone_branco{
+    color: white;
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+    align-items: center;
+}
+
+.descricao{
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    font-family:  Andale Mono, monospace;
+    margin-left: 16px;
+}
+
